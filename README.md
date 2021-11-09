@@ -1,3 +1,3 @@
 # Adrián Marrero.
 
-Hacer lo que amo o morir en el intento.
+Viviendo de lo que amo.
