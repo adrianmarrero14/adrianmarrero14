@@ -1,5 +1,5 @@
 <a href="https://adrianmarrero.com">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=2800&pause=1400&color=B8FF2E&vCenter=true&width=620&height=40&lines=AI+Engineer;Software+Engineer;Backends+that+hold.+AI+that+earns+its+place.;Building+Wabu+%C2%B7+Waypoint+%C2%B7+Linotipo" alt="AI Engineer · Software Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=2800&pause=1400&color=B8FF2E&vCenter=true&width=620&height=40&lines=AI+Engineer+%C2%B7+Software+Engineer;Backends+that+hold.+AI+that+earns+its+place.;Building+Wabu+%C2%B7+Waypoint+%C2%B7+Linotipo;Making+games+at+Caiman+Games" alt="AI Engineer · Software Engineer" />
 </a>
 
 ## Adrián Marrero
@@ -17,6 +17,7 @@ adrian · AI Engineer & Software Engineer · Madrid
 | **[Wabu](https://github.com/adrianmarrero14/wabu)** | Personal finance, made simple. | ![early days](https://img.shields.io/badge/%E2%97%8F_early_days-1c1c1c?style=flat-square&color=1c1c1c) |
 | **[Waypoint](https://github.com/adrianmarrero14/waypoint)** | The ultimate productivity app. Journal, tasks and habits. One monorepo for iOS, Android, web and API. | ![iOS in progress](https://img.shields.io/badge/%E2%97%8F_iOS_in_progress-1c1c1c?style=flat-square&color=1c1c1c) |
 | **[Linotipo](https://github.com/adrianmarrero14/linotipo)** | A daily newspaper written by an AI agent. One edition a day, every source cited, zero slop. | ![in development](https://img.shields.io/badge/%E2%97%8F_in_development-1c1c1c?style=flat-square&color=1c1c1c) |
+| **[Caiman Games](https://caimangames.com)** | My indie game studio, [on GitHub too](https://github.com/caimangames). Creating games no one else dares to make. | ![indie studio](https://img.shields.io/badge/%E2%97%8F_indie_studio-1c1c1c?style=flat-square&color=1c1c1c) |
 
 `// how I build`
 
