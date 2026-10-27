@@ -1,14 +1,28 @@
+<a href="https://adrianmarrero.com">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=2800&pause=1400&color=B8FF2E&vCenter=true&width=620&height=40&lines=AI+Engineer;Software+Engineer;Backends+that+hold.+AI+that+earns+its+place.;Building+Wabu+%C2%B7+Waypoint+%C2%B7+Linotipo" alt="AI Engineer · Software Engineer" />
+</a>
+
 ## Adrián Marrero
 
-**AI Engineer & Software Engineer** · Madrid
-
-I design and build backend systems (APIs, microservices and the architecture that holds them together) and, more and more, the AI pipelines that run on top of them. 6+ years shipping software end to end.
+```console
+$ whoami
+adrian · AI Engineer & Software Engineer · Madrid
+6+ years designing backends. Now wiring LLMs into them, with the same rigor.
+```
 
 `// what I'm building`
 
-- **[Wabu](https://github.com/adrianmarrero14/wabu)**: personal finance, made simple.
-- **[Waypoint](https://github.com/adrianmarrero14/waypoint)**: the ultimate productivity app. Journal, tasks and habits. iOS today; Android, web and API on the way.
-- **[Linotipo](https://linotipo.news)**: a daily newspaper written by an AI agent. One edition a day, sources cited, no slop.
+| | | |
+| :-- | :-- | :-- |
+| **[Wabu](https://github.com/adrianmarrero14/wabu)** | Personal finance, made simple. | ![early days](https://img.shields.io/badge/%E2%97%8F_early_days-1c1c1c?style=flat-square&color=1c1c1c) |
+| **[Waypoint](https://github.com/adrianmarrero14/waypoint)** | The ultimate productivity app. Journal, tasks and habits. One monorepo for iOS, Android, web and API. | ![iOS in progress](https://img.shields.io/badge/%E2%97%8F_iOS_in_progress-1c1c1c?style=flat-square&color=1c1c1c) |
+| **[Linotipo](https://github.com/adrianmarrero14/linotipo)** | A daily newspaper written by an AI agent. One edition a day, every source cited, zero slop. | ![in development](https://img.shields.io/badge/%E2%97%8F_in_development-1c1c1c?style=flat-square&color=1c1c1c) |
+
+`// how I build`
+
+- **Boundaries first.** Hexagonal, DDD and CQRS when they earn their place; SOLID and readable code always.
+- **LLMs behind ports.** Models are adapters, prompts are versioned, outputs are validated (Pydantic ⇄ Zod), and there is always a fake LLM for tests.
+- **Own the whole path.** From the schema to the VPS: Docker, Caddy and a server in Helsinki.
 
 `// stack`
 
