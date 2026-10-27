@@ -1,22 +1,29 @@
-# Hi! I'm Adrián Marrero 😁
+## Adrián Marrero
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&width=435&lines=Software+Engineer!)](https://git.io/typing-svg)
+**AI Engineer & Software Engineer** · Madrid
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
-[![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/learn/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/docs.php)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs)
-[![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)](https://symfony.com/doc/current/index.html)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/docs/)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://docs.oracle.com/en/)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
+I design and build backend systems (APIs, microservices and the architecture that holds them together) and, more and more, the AI pipelines that run on top of them. 6+ years shipping software end to end.
+
+`// what I'm building`
+
+- **[Wabu](https://github.com/adrianmarrero14/wabu)**: personal finance, made simple.
+- **[Waypoint](https://github.com/adrianmarrero14/waypoint)**: the ultimate productivity app. Journal, tasks and habits. iOS today; Android, web and API on the way.
+- **[Linotipo](https://linotipo.news)**: a daily newspaper written by an AI agent. One edition a day, sources cited, no slop.
+
+`// stack`
+
+**AI** · ![Python](https://img.shields.io/badge/Python-1c1c1c?style=flat-square&logo=python&logoColor=b8ff2e) ![Claude](https://img.shields.io/badge/Claude-1c1c1c?style=flat-square&logo=claude&logoColor=b8ff2e) ![Pydantic](https://img.shields.io/badge/Pydantic-1c1c1c?style=flat-square&logo=pydantic&logoColor=b8ff2e)
+
+**Backend** · ![PHP](https://img.shields.io/badge/PHP-1c1c1c?style=flat-square&logo=php&logoColor=b8ff2e) ![Laravel](https://img.shields.io/badge/Laravel-1c1c1c?style=flat-square&logo=laravel&logoColor=b8ff2e) ![Symfony](https://img.shields.io/badge/Symfony-1c1c1c?style=flat-square&logo=symfony&logoColor=b8ff2e) ![Node.js](https://img.shields.io/badge/Node.js-1c1c1c?style=flat-square&logo=nodedotjs&logoColor=b8ff2e) ![TypeScript](https://img.shields.io/badge/TypeScript-1c1c1c?style=flat-square&logo=typescript&logoColor=b8ff2e)
+
+**Data & messaging** · ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c1c1c?style=flat-square&logo=postgresql&logoColor=b8ff2e) ![MySQL](https://img.shields.io/badge/MySQL-1c1c1c?style=flat-square&logo=mysql&logoColor=b8ff2e) ![MongoDB](https://img.shields.io/badge/MongoDB-1c1c1c?style=flat-square&logo=mongodb&logoColor=b8ff2e) ![Kafka](https://img.shields.io/badge/Kafka-1c1c1c?style=flat-square&logo=apachekafka&logoColor=b8ff2e) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1c1c1c?style=flat-square&logo=rabbitmq&logoColor=b8ff2e)
+
+**Apps** · ![Swift](https://img.shields.io/badge/Swift-1c1c1c?style=flat-square&logo=swift&logoColor=b8ff2e) ![Astro](https://img.shields.io/badge/Astro-1c1c1c?style=flat-square&logo=astro&logoColor=b8ff2e) ![Vue](https://img.shields.io/badge/Vue-1c1c1c?style=flat-square&logo=vuedotjs&logoColor=b8ff2e) ![React](https://img.shields.io/badge/React-1c1c1c?style=flat-square&logo=react&logoColor=b8ff2e) ![Angular](https://img.shields.io/badge/Angular-1c1c1c?style=flat-square&logo=angular&logoColor=b8ff2e)
+
+**Infrastructure** · ![Docker](https://img.shields.io/badge/Docker-1c1c1c?style=flat-square&logo=docker&logoColor=b8ff2e) ![Kubernetes](https://img.shields.io/badge/Kubernetes-1c1c1c?style=flat-square&logo=kubernetes&logoColor=b8ff2e) ![Linux](https://img.shields.io/badge/Linux-1c1c1c?style=flat-square&logo=linux&logoColor=b8ff2e) ![Caddy](https://img.shields.io/badge/Caddy-1c1c1c?style=flat-square&logo=caddy&logoColor=b8ff2e)
+
+**Architecture** · Hexagonal · DDD · CQRS · Microservices
+
+`// elsewhere`
+
+[adrianmarrero.com](https://adrianmarrero.com) · [LinkedIn](https://www.linkedin.com/in/adrianmarrero) · [Bluesky](https://bsky.app/profile/adrian-marrero.bsky.social)
